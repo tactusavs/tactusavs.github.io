@@ -1,6 +1,6 @@
-﻿#nameAlfa-theta 1
+﻿#name Alfa-theta 1
 
-#descSchumann rezonancia fókuszáltan		
+#desc Schumann rezonancia fókuszáltan		
 
 0 87 30
 
@@ -22,14 +22,10 @@
 
 20 78 3000
 
-30 75 783 #5 perc alatt 7,83Hz
- 11 percig tartjuk
-
-9580 77	1800 # 3 perc alatt 10Hz
+30 75 783 
+9580 77	1800
 9590 78 1800	
 
-9600 75 1000 
-#fél percig tartjuk 960+180+30
-
-11680 87 30 #Soft off 30 sec
+9600 75 1000
+11680 87 30
 11700 70 1
