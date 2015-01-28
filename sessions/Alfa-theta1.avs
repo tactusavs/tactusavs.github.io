@@ -1,6 +1,6 @@
-﻿#name	Alfa-theta 1
+﻿#name Alfa-theta 1
 
-#desc	Schumann rezonancia fókuszáltan		
+#desc Schumann rezonancia fókuszáltan		
 
 0	87	30	
 

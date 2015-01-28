@@ -1,6 +1,6 @@
-﻿#name	Delta1
+﻿#name Delta1
 
-#desc	Alvás helyett szieszta időben
+#desc Alvás helyett szieszta időben
 
 0	87	30
 
