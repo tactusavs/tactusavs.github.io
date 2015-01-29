@@ -1,4 +1,5 @@
 ﻿#name Alfa-theta 1	
+
 #desc Schumann rezonancia fókuszáltan		
 
 0	87 	30	
@@ -27,7 +28,7 @@
 
 9590	78	1800	
 
-9600	75	1000 
+9600	75	1000	
 
 11680	87	30	
 
