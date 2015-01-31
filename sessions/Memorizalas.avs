@@ -2,9 +2,9 @@
 
 #desc Megtanult tananyag, vagy mozgásforma memorizálása			
 
-0	87	30	
+0	87	29	
 
-0	72	600	
+0	72	150	
 
 0	75	1500	
 
@@ -19,9 +19,9 @@
 0	71	1	
 #1 percig tartjuk
 
-880	77	3000	#Freki 10,2 Hz-re 300sec alatt
+880	77	2900	#Freki 10,2 Hz-re 300sec alatt
 
-890	78	3000	
+890	78	2900	
 
 900	75	1020	
 #8 percig tartjuk
@@ -33,6 +33,6 @@
 8700	75	1750	
 #1 percig tartjuk
 
-11090	87	30	
+11090	87	29	
 
 11100	70	1	
