@@ -1,6 +1,6 @@
 #name Proba	
-#desc softON29mp 10Hz 1perc 4Hz 19mp tart 1 perc 16Hz softOFF29mp		
-0	87	29	
+#desc softON15mp 10Hz 1perc4Hz félperc180fok 10mptart 0fok Jfélperc8Hz B1perc16Hz softOFF15mp	
+0	87	15	
 0	72	150	
 0	75	1000	
 0	76	50	
@@ -11,8 +11,12 @@
 300	77	600	
 300	78	600	
 310	75	400	
-1100	77	600	
-1100	78	600	
-1110	75	1600	
-1720	87	29	
+600	79	180	
+930	79	180	
+1000	77	600	
+1000	78	300	
+1010	73	1600	
+1010	74	800	
+1720	87	15	
 1720	70	1	
+	
