@@ -1,5 +1,5 @@
 #name Proba	
-#desc softON15mp 10Hz 1perc4Hz félperc180fok 10mptart 0fok Jfélperc8Hz B1perc16Hz softOFF15mp	
+#desc softON15mp 10Hz 1perc4Hz fperc180fok 10mptart 0fok Jfperc8Hz B1perc16Hz softOFF15mp	
 0	87	15	
 0	72	150	
 0	75	1000	
