@@ -1,5 +1,5 @@
 #name alfa 1	
-#desc Stresszoldás gyakorlottaknak	
+#desc Stresszoldas gyakorlottaknak	
 0	87	29	
 0	72	150	
 0	73	1200	

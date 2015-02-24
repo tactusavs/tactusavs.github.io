@@ -1,5 +1,5 @@
-#name	Alfa-theta 2	
-#desc Immunrendszer erősítésére, hormonális egyensúlyért, mély meditációra	
+﻿#name Alfa-theta 2	
+#desc Immunrendszer erositesere, hormonalis egyensulyert, mely meditaciora	
 0	87	29
 	
 0	72	150

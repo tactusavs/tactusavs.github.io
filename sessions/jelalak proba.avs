@@ -1,5 +1,5 @@
 #name Proba jelalak	
-#desc	Sin 15D180 20tri 35D180 40rect 55D180 1ptrap 1p15D180 1p20con 1p30D180	
+#desc Sin 15D180 20tri 35D180 40rect 55D180 1ptrap 1p15D180 1p20con 1p30D180	
 0	87	15	
 0	72	150
 	

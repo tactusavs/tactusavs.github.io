@@ -1,5 +1,5 @@
-#name théta 2	
-#desc Endorfinok gyarapítása, mély meditáció	
+#name Theta 2	
+#desc Endorfinok gyarapitasa, mely meditacio	
 0	87	29	
 0	72	150	
 0	73	800	

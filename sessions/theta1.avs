@@ -1,5 +1,5 @@
 #name Theta 1	
-#desc Téri orientációs fejlesztéshez, lélektani munka elott	
+#desc Teri orientácios fejleszteshez, lelektani munka elott	
 0	87	29	
 0	72	150	
 0	73	850	

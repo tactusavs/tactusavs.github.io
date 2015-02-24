@@ -1,5 +1,5 @@
-#name	Delta1		
-#desc	Alvás helyett szieszta időben		
+﻿#name Delta1		
+#desc Alvas helyett szieszta idoben		
 0	87	30	
 0	72	150	
 0	75	1000	
