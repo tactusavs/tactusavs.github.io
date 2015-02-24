@@ -1,5 +1,5 @@
 #name Proba	
-#desc softON15mp 10Hz 1perc4Hz fperc180fok 10mptart 0fok Jfperc8Hz B1perc16Hz softOFF15mp	
+#desc softON15mp 10Hz 1perc4Hz félperc180fok 10mptart 0fok Jfélperc8Hz B1 perc16Hz softOFF15mp	
 0	87	15	
 0	72	150	
 0	75	1000	
@@ -8,17 +8,16 @@
 0	81	1	
 0	79	0	
 0	71	1	
-300	77	600	
-300	78	600	
+300	77	60	
+300	78	60	
 310	75	400	
-600	79	180
-720	79	0
-820	79	270			
+600	79	180	
+720	79	0	
+820	79	270	
 930	79	180	
-1000	77	3000	
-1000	78	2000	
+1000	77	300	
+1000	78	300	
 1010	73	1600	
 1010	74	800	
 1720	87	15	
 1720	70	1	
-	
